@@ -23,3 +23,5 @@ running
 [07.05PM] Modified Control Settings
 
 [07.10PM] Modified Control Console Display Settings
+
+[07.15PM] To [07.41PM] StandBy
