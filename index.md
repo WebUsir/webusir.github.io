@@ -1,14 +1,19 @@
-[24.11::20.00] User initiated control
+#### 24-11-22
+[08.00PM] User initiated control
 running
+#### 5-12-22
+[03.49PM] Computer Initiated
 
-[5.12::15.50] Computer Initiated
+[03.50PM] Computer Halted
 
-[5.12::15.52] Started Minecraft:Bedrock
+[03.51PM] Computer Initiated
 
-[5.12::15.53] Started Code Editor
+[03.52] Started Minecraft:Bedrock
 
-[5.12::15.53] Testing Code Package
+[03.53] Started Code Editor
 
-[5.12::16.00] Started [Exercise 6.5 Class 7 Math]
+[03.57] Testing Code Package
 
-[5.12::18.01] Computer Halt Initiated
+[04.00] Started [Exercise 6.5 Class 7 Math]
+
+[07.05] Modified Control Settings
