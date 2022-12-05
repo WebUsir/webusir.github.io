@@ -8,16 +8,16 @@ running
 
 [03.51PM] Computer Initiated
 
-[03.52] Started Minecraft:Bedrock
+[03.52PM] Started Minecraft:Bedrock
 
-[03.53] Started Code Editor
+[03.53PM] Started Code Editor
 
-[03.57] Testing Code Package
+[03.57PM] Testing Code Package
 
-[04.00] Exited 'Minecraft:Bedrock', 'Code Editor', and 'Code Package'
+[04.00PM] Exited 'Minecraft:Bedrock', 'Code Editor', and 'Code Package'
 
-[04.00] Started [Exercise 6.5 Class 7 Math]
+[04.00PM] Started [Exercise 6.5 Class 7 Math]
 
-[05.51] StandBy
+[05.51PM] StandBy
 
-[07.05] Modified Control Settings
+[07.05PM] Modified Control Settings
