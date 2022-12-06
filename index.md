@@ -1,5 +1,11 @@
 ## 6-12-22
 
+[05.14PM] Started 'Class 7 Exercise 6.5' on Chrome 
+
+### [04.12PM] To [05.12PM] StandBy
+
+[04.10PM] Closed Code Control v7.13
+
 [03.50PM] Started Code Control v7.13
 
 ### [03.47PM] Computer Initiated
