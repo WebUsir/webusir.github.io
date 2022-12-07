@@ -1,5 +1,7 @@
 ## 7-12-22
 
+### [04.07PM] to [04.40PM] StandBy
+
 [03.52PM] Started Code Pkg Attempt v7.5
 
 ### [03.47PM] Computer Started!
