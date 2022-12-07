@@ -1,3 +1,9 @@
+## 7-12-22
+
+[03.52PM] Started Code Pkg Attempt v7.5
+
+### [03.47PM] Computer Started!
+
 ## 6-12-22
 
 [05.14PM] Started 'Class 7 Exercise 6.5' on Chrome 
