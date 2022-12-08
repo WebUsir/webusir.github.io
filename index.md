@@ -1,3 +1,8 @@
+## 8-12-22
+
+### [03.30PM] Started [Google Forms](forms.google.com).
+### [03.28PM] Computer Initiated
+
 ## 7-12-22
 
 ### [04.07PM] to [04.40PM] StandBy
