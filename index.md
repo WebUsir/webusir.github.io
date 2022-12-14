@@ -1,5 +1,7 @@
 ## 14-12-22
 
+### [02:59PM] Computer Halted
+
 ### [01:35PM] Computer Initiated
 
 ## 11-12-22
