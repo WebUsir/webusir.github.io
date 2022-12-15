@@ -1,6 +1,14 @@
+## 15-12-22
+
+[01:40PM] Started Minecraft & Programmers' guide v1
+
+### [01:25PM] Computer Initiated
+
 ## 14-12-22
 
 ### [02:59PM] Computer Halted
+
+[01:40PM] Started Code PackS3
 
 ### [01:35PM] Computer Initiated
 
